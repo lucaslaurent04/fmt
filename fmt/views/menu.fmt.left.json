@@ -1282,7 +1282,7 @@
                         "description": "Quota definitions.",
                         "context": {
                             "view": "list.default",
-                            "entity": "infra\\quota\\QuotaDefinition"
+                            "entity": "infra\\quota\\Quota"
                         }
                     }
                 ]
